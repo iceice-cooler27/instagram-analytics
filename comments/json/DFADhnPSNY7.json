@@ -1,0 +1,81 @@
+{
+    "likes": 0,
+    "replies": 4,
+    "comments": [
+        {
+            "username": "sleeping_2359",
+            "text": "Test test",
+            "likes": 0,
+            "date_created": "2025-01-19 13:03:08",
+            "replies": [],
+            "b_sentiment": "neu",
+            "b_scoree": 0.0,
+            "e_sentiment": "neu",
+            "emotions": {
+                "fear": 0.616374671459198,
+                "anger": 0.15880797803401947,
+                "joy": 0.15445464849472046,
+                "sadness": 0.038007255643606186,
+                "surprise": 0.025725947692990303,
+                "love": 0.006629486568272114
+            },
+            "compound_e_score": -0.6183668314479291
+        },
+        {
+            "username": "sleeping_2359",
+            "text": "OMG!",
+            "likes": 1,
+            "date_created": "2025-01-19 08:43:23",
+            "replies": [
+                {
+                    "username": "sleeping_2359",
+                    "text": "@sleeping_2359 Yea wth that guy is good",
+                    "likes": 1,
+                    "created_at": "2025-01-19 08:43:37",
+                    "b_sentiment": "neg",
+                    "b_score": -0.128,
+                    "e_sentiment": "pos",
+                    "emotions": {
+                        "joy": 0.9975894689559937,
+                        "sadness": 0.0008844985859468579,
+                        "love": 0.0006477152346633375,
+                        "anger": 0.0004835428553633392,
+                        "fear": 0.00020185249741189182,
+                        "surprise": 0.0001928990677697584
+                    },
+                    "compound_e_score": 0.7473585880434257
+                },
+                {
+                    "username": "sleeping_2359",
+                    "text": "@sleeping_2359 Anyway i dont like it",
+                    "likes": 0,
+                    "created_at": "2025-01-19 14:53:24",
+                    "b_sentiment": "neg",
+                    "b_score": -0.2755,
+                    "e_sentiment": "neu",
+                    "emotions": {
+                        "joy": 0.7320178151130676,
+                        "anger": 0.10602053999900818,
+                        "sadness": 0.07957660406827927,
+                        "fear": 0.07008040696382523,
+                        "love": 0.010175405070185661,
+                        "surprise": 0.002129132393747568
+                    },
+                    "compound_e_score": 0.20583668304607272
+                }
+            ],
+            "b_sentiment": "neu",
+            "b_scoree": 0.0,
+            "e_sentiment": "neu",
+            "emotions": {
+                "joy": 0.590116024017334,
+                "anger": 0.28366443514823914,
+                "fear": 0.09394862502813339,
+                "sadness": 0.014971793629229069,
+                "surprise": 0.012982472777366638,
+                "love": 0.004316651728004217
+            },
+            "compound_e_score": -0.059540588641539216
+        }
+    ]
+}
