@@ -1,5 +1,44 @@
 {
     "likes": 1,
-    "replies": 0,
-    "comments": []
+    "replies": 2,
+    "comments": [
+        {
+            "username": "sleeping_2359",
+            "text": "Omg new games to play!",
+            "likes": 0,
+            "date_created": "2025-01-20 15:48:38",
+            "replies": [],
+            "b_sentiment": "pos",
+            "b_scoree": 0.4003,
+            "e_sentiment": "neu",
+            "emotions": {
+                "joy": 0.6812215447425842,
+                "anger": 0.2750736176967621,
+                "fear": 0.019412511959671974,
+                "sadness": 0.01663908176124096,
+                "surprise": 0.004367074463516474,
+                "love": 0.003286186372861266
+            },
+            "compound_e_score": 0.06305072491522878
+        },
+        {
+            "username": "sleeping_2359",
+            "text": "GARRR THESE GAMES ARE SOO HARD YET WHY ARE THEY SO FUNNNN",
+            "likes": 0,
+            "date_created": "2025-01-20 15:48:25",
+            "replies": [],
+            "b_sentiment": "neg",
+            "b_scoree": -0.1027,
+            "e_sentiment": "neu",
+            "emotions": {
+                "joy": 0.7385133504867554,
+                "anger": 0.23353607952594757,
+                "sadness": 0.011457053013145924,
+                "love": 0.007753715384751558,
+                "surprise": 0.005041403230279684,
+                "fear": 0.0036984137259423733
+            },
+            "compound_e_score": 0.20231866894755512
+        }
+    ]
 }
